@@ -2,7 +2,10 @@
 The aim is to develop an open-source software that will allow studying the mobility of individuals in a given region, for representative populations. The software will estimate various statistics such as the number of trips, distance travelled, and greenhouse gas emissions, categorized by mode of transportation and purpose of travel.
 # Description
 
-<img src="up1.gif" alt="GIF Image" width="500" height="400">
+<div style="text-align: center;">
+  <img src="up1.gif" alt="GIF Image" width="300" height="300">
+</div>
+
 <br>
 <br>
 
