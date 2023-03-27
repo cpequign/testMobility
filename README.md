@@ -3,7 +3,7 @@ The aim is to develop an open-source software that will allow studying the mobil
 # Description
 
 <div style="text-align: center;">
-  <img src="up1.gif" alt="GIF Image" width="600" height="600">
+  <img src="up1.gif" alt="GIF Image" width="500" height="500">
 </div>
 
 <br>
