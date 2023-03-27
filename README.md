@@ -3,7 +3,7 @@ The aim is to develop an open-source software that will allow studying the mobil
 # Description
 
 <div style="text-align: center;">
-  <img src="up1.gif" alt="GIF Image" width="300" height="300">
+  <img src="up1.gif" alt="GIF Image" width="600" height="600">
 </div>
 
 <br>
@@ -55,8 +55,3 @@ This interface is still an overview of how we can use the Mobility Project, and 
 # License
 This project is licensed.
 # Authors
-### Anas LAHMAR
-### Zakariaaa ELMHASSANI  
-### Ayoub El FOUNDOU
-###
-###
